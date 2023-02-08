@@ -1,0 +1,26 @@
+a:hover {
+  font-weight: bold;
+}
+h1,
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+}
+h1 {
+  text-decoration: underline;
+}
+
+html {
+  background-color: lightslategray;
+}
+body {
+  background-color: white;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  border-radius: 50px;
+}
+
+.center {
+  text-align: center;
+}
